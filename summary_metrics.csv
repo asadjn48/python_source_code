@@ -1,0 +1,13 @@
+IoT_Task,Algorithm,Accuracy_Mean (%),Accuracy_Std (%),Selected_Features_Mean,Selected_Features_Std,Fitness_Mean,Fitness_Std,Wilcoxon_p_value,Significance (+/=/-)
+Task 1: IoT Smart Fridge,BLKT-MTPSO (Ours),99.06,0.3,5.43,0.72,0.0246,0.0018,N/A,Reference
+Task 1: IoT Smart Fridge,BPSO,98.84,0.35,11.3,2.31,0.0441,0.0067,0.0,+
+Task 1: IoT Smart Fridge,BGA,99.24,0.32,6.67,1.11,0.0267,0.0022,0.00096,+
+Task 1: IoT Smart Fridge,BDE,99.19,0.32,7.17,1.1,0.0286,0.0037,0.00013,+
+Task 2: IoT Garage Door,BLKT-MTPSO (Ours),99.03,0.36,5.47,0.67,0.025,0.002,N/A,Reference
+Task 2: IoT Garage Door,BPSO,99.07,0.43,12.0,2.22,0.0441,0.0067,0.0,+
+Task 2: IoT Garage Door,BGA,99.22,0.28,6.83,1.07,0.0273,0.0024,0.0001,+
+Task 2: IoT Garage Door,BDE,99.21,0.28,7.17,1.16,0.0284,0.0035,0.0003,+
+Task 3: IoT Weather Sensor,BLKT-MTPSO (Ours),99.1,0.37,5.27,0.73,0.0237,0.0028,N/A,Reference
+Task 3: IoT Weather Sensor,BPSO,99.36,0.3,11.8,2.01,0.041,0.0058,0.0,+
+Task 3: IoT Weather Sensor,BGA,99.5,0.24,7.13,1.18,0.0258,0.0027,0.01842,+
+Task 3: IoT Weather Sensor,BDE,99.45,0.24,7.57,1.36,0.0275,0.0032,8e-05,+
